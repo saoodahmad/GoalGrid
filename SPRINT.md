@@ -172,3 +172,19 @@
 ---
 
 > 💡 Total Estimated Time: **30 Hours (20 sprints x 1.5 hours)**
+
+| Purpose            | Tailwind Class / Color Name                      | HEX Code                |
+| ------------------ | ------------------------------------------------ | ----------------------- |
+| Base Background    | `bg-[#0E1117]`                                   | `#0E1117`               |
+| Sidebar Background | `bg-[#1A1F2E]/90`                                | `#1A1F2E`               |
+| Panel/Card         | `bg-[#1F2435]/90`                                | `#1F2435`               |
+| Panel Border       | `border-[#2A2F41]`                               | `#2A2F41`               |
+| Soft Border        | `border-[#3F4A5B]`                               | `#3F4A5B`               |
+| Text Primary       | `text-slate-100`                                 | `#F1F5F9`               |
+| Text Muted         | `text-slate-400`                                 | `#94A3B8`               |
+| Accent Primary     | `bg-indigo-500`                                  | `#6366F1`               |
+| Accent Secondary   | `bg-violet-600`                                  | `#8B5CF6`               |
+| Accent Gradient    | `bg-gradient-to-r from-indigo-500 to-violet-600` | `#6366F1 → #8B5CF6`     |
+| Hover BG           | `hover:bg-[#262B3C]`                             | `#262B3C`               |
+| Glass Effect       | `backdrop-blur-xl`                               | N/A (effect)            |
+| White Border Glow  | `border-white/20`                                | `rgba(255,255,255,0.2)` |
